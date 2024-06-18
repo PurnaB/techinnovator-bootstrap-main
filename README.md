@@ -1,4 +1,4 @@
-# Bingo By Themefisher
+# Tech Innovator By Themefisher
 
 BINGO is a powerful Bootstrap Business Template from the Themefisher team. By using this theme, it will be possible for you to make your startup/business website and so on.
 
